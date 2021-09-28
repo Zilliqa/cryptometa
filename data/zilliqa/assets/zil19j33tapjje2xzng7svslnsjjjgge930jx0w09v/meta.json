@@ -1,0 +1,12 @@
+{
+  "name": "Zilliqa-bridged ETH token Token",
+  "symbol": "zETH",
+  "web": "https://ethereum.org/en/",
+  "decimals": "18",
+  "product": true,
+  "publicTeam": true,
+  "holders": true,
+  "gen": {
+    "logo": "logo.svg",
+  }
+}
